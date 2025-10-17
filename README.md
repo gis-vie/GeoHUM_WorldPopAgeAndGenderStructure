@@ -1,7 +1,7 @@
 # WorldPop Age and Gender Structures Processing
 
 This repo focuses on the processing, visualisation, and analysis of WorldPop Age and Gender Structures data through comprehensive Jupyter notebooks and associated tools. The repository provides a complete workflow for handling demographic data from the WorldPop project, enabling the extraction of insights from population distribution datasets.
-
+Work develooped by Anna 
 ## Repository Structure
 
 ```
