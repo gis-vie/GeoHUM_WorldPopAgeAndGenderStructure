@@ -40,7 +40,7 @@ worldpop_processing/
 ## Data Sources
 
 This project utilises datasets from the WorldPop project, specifically focusing on Age and Gender Structure datasets
-For accessing WorldPop data, visit [HDX](https://data.humdata.org/organization/worldpop?dataseries_name=WorldPop+-+Age+and+Gender+Population+Structures) or [worldpop.org](https://www.worldpop.org) to learn more about the latest datasets and documentation.
+For accessing WorldPop data, visit [HDX](https://data.humdata.org/organization/worldpop?dataseries_name=WorldPop+-+Age+and+Gender+Population+Structures) or [worldpop.org]([https://www.worldpop.org](https://hub.worldpop.org/geodata/listing?id=138)) to learn more about the latest datasets and documentation.
 
 ## Usage
 
